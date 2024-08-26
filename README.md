@@ -28,7 +28,8 @@
 
 # Créditos:
 * Criado por Telmo.
-* Sinta-se à vontade para compartilhar esta animação de boot. Se você gostou, não esqueça de dar uma estrela ⭐ no repositório!
+* Sinta-se à vontade para compartilhar esta animação de boot.
+* Se você gostou, não esqueça de dar uma estrela ⭐ no repositório!
 
 # Licença:
 * Este projeto é distribuído sob a licença MIT.
